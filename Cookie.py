@@ -1,0 +1,2 @@
+import c
+c.main()
